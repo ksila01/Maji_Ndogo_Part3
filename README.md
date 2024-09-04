@@ -22,19 +22,19 @@ The national dashboard provides a comprehensive overview of the current state of
 ***
 ## Findings
 ![Alt Text](images/image1.PNG)
-**Total Budget & Financial Needs**:
+* **Total Budget & Financial Needs**:
 
 * The total budget allocated so far amounts to $147 million. However, the projected total requirement to fully address the water access challenges is approximately $300 million.
 * **Cost Distribution**: The province of Sokoto has the highest expenditure, while Amanzi incurs the lowest costs.
-**Improvement Costs**:
+* **Improvement Costs**:
 
 * **Major Investments**: The most significant budget allocations have been directed toward improving Reverse Osmosis (RO) filters and drilling wells.
 Improvement Details: The dashboard tracks a variety of improvements, from the installation of taps to the deployment of filtration systems, ensuring a clear view of resource allocation.
-**Progress Indicators**:
+* **Progress Indicators**:
 
 * **Improvement Rat**e: The project has achieved a 66% improvement in water infrastructure across the region.
 * **Population Access**: Currently, 34% of the population has access to basic water services, reflecting substantial progress but also indicating the need for continued efforts.
-**Regional Disparities**:
+* **Regional Disparities**:
 
 * **Provincial Analysis**: The number of improvements and types of water sources vary significantly across provinces. For example, Kilimani and Sokoto show a higher count of improvements, while Amanzi is the least developed in this regard.
 Water Source Distribution:
