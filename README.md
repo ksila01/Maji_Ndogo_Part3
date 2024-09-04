@@ -2,7 +2,9 @@
 ## Part 3: Communicating Findings in Maji Ndogo
 [Download_PowerBI_Report_Here](part_3.pbix)
 ***
-![Alt Text](images/image.PNG)
+<p align="center">
+  <img src="images/image.PNG" alt="Image 3" width="600"/>
+</p>
 
 ***
 
@@ -21,7 +23,10 @@ The national dashboard provides a comprehensive overview of the current state of
 
 ***
 ## Findings
-![Alt Text](images/image1.PNG)
+<p align="center">
+  <img src="images/image1.PNG" alt="Image 3" width="600"/>
+</p>
+
 * **Total Budget & Financial Needs**:
 
 * The total budget allocated so far amounts to $147 million. However, the projected total requirement to fully address the water access challenges is approximately $300 million.
