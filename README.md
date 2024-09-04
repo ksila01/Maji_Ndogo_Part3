@@ -37,9 +37,9 @@ Improvement Details: The dashboard tracks a variety of improvements, from the in
 * **Regional Disparities**:
 
 * **Provincial Analysis**: The number of improvements and types of water sources vary significantly across provinces. For example, Kilimani and Sokoto show a higher count of improvements, while Amanzi is the least developed in this regard.
-Water Source Distribution:
+* **Water Source Distribution**:
 
 * **Rural vs. Urban Access**: There is a clear distinction in the types of water sources available in rural versus urban areas, with rural areas relying more on wells and shared taps, while urban areas have greater access to in-home taps.
-Public & Stakeholder Engagement:
+* **Public & Stakeholder Engagement**:
 
-* **Transparency & Accountability**: The dashboard is designed to provide the public with visibility into the progress being made, while also offering stakeholders and decision-makers detailed insights for effective management.
+* **Transparency & Accountability**: The dashboard is designed to provide the public with visibility into the progress being made while also offering stakeholders and decision-makers detailed insights for effective management.
